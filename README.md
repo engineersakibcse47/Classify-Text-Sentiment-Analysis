@@ -126,11 +126,11 @@ For the learning rate (`init_lr`), you will use the same schedule as BERT pre-tr
 
 Based on the `History` object returned by `model.fit()`. You can plot the training and validation loss for comparison, as well as the training and validation accuracy:
 
-<img width="400" alt="image" src="https://github.com/engineersakibcse47/Text-Classification--Sentiment-analysis-with-BERT/assets/108215990/6d9ab694-e768-4bf0-a69a-e9b74e9ef2df">
+<img width="600" alt="image" src="https://github.com/engineersakibcse47/Text-Classification--Sentiment-analysis-with-BERT/assets/108215990/6d9ab694-e768-4bf0-a69a-e9b74e9ef2df">
 
 ### Deployment with Streamlit
 
-<img width="400" alt="image" src="https://github.com/engineersakibcse47/Text-Classification--Sentiment-analysis-with-BERT/assets/108215990/dbdcf1d3-782c-47f8-a502-0cfb33c4396e">
+<img width="600" alt="image" src="https://github.com/engineersakibcse47/Text-Classification--Sentiment-analysis-with-BERT/assets/108215990/dbdcf1d3-782c-47f8-a502-0cfb33c4396e">
 
 
 

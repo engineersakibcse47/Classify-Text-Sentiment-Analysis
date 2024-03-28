@@ -130,7 +130,7 @@ Based on the `History` object returned by `model.fit()`. You can plot the traini
 
 ### Deployment with Streamlit
 
-<img width="600" alt="image" src="https://github.com/engineersakibcse47/Text-Classification--Sentiment-analysis-with-BERT/assets/108215990/dbdcf1d3-782c-47f8-a502-0cfb33c4396e">
+<img width="600" alt="image" src="https://github.com/engineersakibcse47/Text-Classification--Sentiment-analysis-with-BERT/assets/108215990/144ffb8b-329a-43ea-9889-4eb3db14489a">
 
 
 

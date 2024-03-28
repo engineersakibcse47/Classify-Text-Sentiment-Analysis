@@ -128,7 +128,7 @@ Based on the `History` object returned by `model.fit()`. You can plot the traini
 
 <img width="400" alt="image" src="https://github.com/engineersakibcse47/Text-Classification--Sentiment-analysis-with-BERT/assets/108215990/6d9ab694-e768-4bf0-a69a-e9b74e9ef2df">
 
-<img width="400" alt="image" src="https://github.com/engineersakibcse47/Text-Classification--Sentiment-analysis-with-BERT/assets/108215990/89a611e7-cd2d-43db-9212-0d78de89d3d1">
+### Deployment with Streamlit
 
 
 
